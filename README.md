@@ -22,3 +22,5 @@ The programmer will probably want to customize the object/asset to the game stan
 
 ### Community Help
 Interested in using the plugin or wanting to help improve it? Go ahead! I'm happy for the help :)
+
+The trello link for new features/bugs/etc., can be found here: https://trello.com/b/AOWroebf/rpg-editor-extension-unity
