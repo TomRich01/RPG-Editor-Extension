@@ -1,5 +1,5 @@
 # RPG-Editor-Extension
-Welcome to the GitHub repo for the RPG Editor Extension (Unity), a designer tool to quickly create content from which a programmer can implement into a game.
+Welcome to the GitHub repo for the RPG Editor Extension (Unity), a designer tool to quickly create content from which a programmer can implement into a game. The project is inspired by the Skyrim/Fallout Creation Kits but for Unity.
 
 
 ## How Does it work?
