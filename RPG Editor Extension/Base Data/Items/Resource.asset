@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba739220595fea2489ed9dd8aef63306, type: 3}
+  m_Name: Resource
+  m_EditorClassIdentifier: 
+  itemID: 880a56d0-b1b7-4396-a2c8-efedf3f00b96
+  itemName: 
+  itemDescription: 
+  itemValue: 0
+  itemWeight: 0
+  useSound: {fileID: 0}
+  pickupSound: {fileID: 0}
+  putdownSound: {fileID: 0}
+  prefabModel: {fileID: 0}
+  maxStackSize: 0

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28737a567203b084ab42637966967ab9, type: 3}
+  m_Name: Potion
+  m_EditorClassIdentifier: 
+  itemID: eb312e1a-492d-4ca7-b198-3f6034fb61c1
+  itemName: 
+  itemDescription: 
+  itemValue: 0
+  itemWeight: 0
+  useSound: {fileID: 0}
+  pickupSound: {fileID: 0}
+  putdownSound: {fileID: 0}
+  prefabModel: {fileID: 0}
+  maxStackSize: 15
+  potionType: 2
+  effectType: 0
+  modifier1: 0
+  modifier2: 1
+  restoreAmount: 30
+  depleteAmount: 0
+  effectLingerAmount: 1.5
+  effectLingerDuration: 20
+  cooldownTimeRequired: 0

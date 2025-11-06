@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d79f63f55fbf51f449eec9d7efc139c6, type: 3}
+  m_Name: Item
+  m_EditorClassIdentifier: 
+  itemID: d75903b9-d914-4d8b-accc-c0242f5d012f
+  itemName: 
+  itemDescription: 
+  itemValue: 0
+  itemWeight: 0
+  useSound: {fileID: 0}
+  pickupSound: {fileID: 0}
+  putdownSound: {fileID: 0}
+  prefabModel: {fileID: 0}
+  maxStackSize: 0
+  rarity: 0
+  runeType: 0
+  powerModifierValue: 0
+  operationModifier: 0
+  affectedAbility: 0
+  abilityModifierValue: 0

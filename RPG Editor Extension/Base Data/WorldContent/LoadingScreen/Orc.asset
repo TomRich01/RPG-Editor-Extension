@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2c087f252527284ab204ad61954ddd5, type: 3}
+  m_Name: Orc
+  m_EditorClassIdentifier: 
+  screenModel: {fileID: 4548437473975486710, guid: 22a9ddad0b718554e9a5ed10bbc4bba0,
+    type: 3}
+  screenText: This potion is very tasty.
